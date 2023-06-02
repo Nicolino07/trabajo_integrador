@@ -38,4 +38,5 @@ while OFF is False:
         """codigo a ejecutar si el usuario selecciona calculadora de conversion
         Usaremos el comando import"""
         print ("Calculadora de Conversiones\n")
+    import Calculadora_de_conversiones
     
